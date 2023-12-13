@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sankrityaritesh
 - 👀 I’m interested in Java, I like standup comedy
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
